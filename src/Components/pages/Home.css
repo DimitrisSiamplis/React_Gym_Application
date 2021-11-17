@@ -1,0 +1,62 @@
+
+.image1{
+    
+    background-image: url('https://www.greeka.com/photos/greece-sports/gym/hero/greece-sports-gym-1920.jpg');
+    
+}
+
+
+.prev{
+  margin-top: 50%;
+}
+
+.a1 {
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-top: 20%;
+    margin-left: 5px;
+  }
+  
+  .a2:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .a2 {
+    position: relative;
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    margin-top: 20%;
+    margin-left: 93%;
+  }
+  
+  .a1:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+ 
+  
+  .next {
+    background-color: #7c0272;
+    color: white;
+  }
+  
+  .round {
+    border-radius: 100%;
+  }
+
+
+
+
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    margin-top: 43%;
+    background-color: rgb(132, 32, 190);
+    color: white;
+  }
